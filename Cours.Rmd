@@ -1,0 +1,20 @@
+---
+title: "Cours de Data Viz"
+author: "XU"
+date: "2024-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+rm(list = ls())
+```
+
+## Libraies
+```{r}
+library("DT")
+
+# FlexDashboard (moins RShiny)
+# Voir aussi streamlit en installant VScode
+```
+
