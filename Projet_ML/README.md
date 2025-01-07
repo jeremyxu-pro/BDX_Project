@@ -1,8 +1,8 @@
 # Projet de Machine Learning ISUP 
 
-# Groupe BDX
+Groupe BDX :
 
-Miguel BAENA 
-Paul DAKPOGAN
-Jérémy XU
+**Miguel BAENA**
+**Paul DAKPOGAN**
+**Jérémy XU**
 
