@@ -2,7 +2,7 @@
 
 Groupe BDX :
 
-**Miguel BAENA**
-**Paul DAKPOGAN**
-**Jérémy XU**
+- **Miguel BAENA**
+- **Paul DAKPOGAN**
+- **Jérémy XU**
 
