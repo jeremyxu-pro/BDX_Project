@@ -1,0 +1,1001 @@
+PolicyNumber;Gender;DrivAge;State;ClaimNb;HadRob;HadPartColl;HadTotColl;HadFire;HadOther;VehYear_Class;Region;VehGroup_bin;ClaimAmountNormalized
+626891;Female;18-25;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+1879683;Female;>55;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires;0.0
+1060673;Female;36-45;Sao Paulo;3;0;1;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;811.3333333333334
+1330554;Male;26-35;Parana;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+38701;Male;>55;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+1526134;Corporate;36-45;Rio Grande do Norte;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+283848;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+798584;Male;36-45;Mato Grosso do Sul;0;0;0;0;0;0;1995-1998;Centre-Ouest;Citadine;0.0
+1850454;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;<1995;Sud-Est;Non classifié;0.0
+1924843;Male;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+546224;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1433601;Male;46-55;Minas Gerais;1;0;0;0;0;1;2007-2010;Sud-Est;Véhicules utilitaires;398.0
+64443;Male;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+785540;Corporate;36-45;Mato Grosso;0;0;0;0;0;0;2001-2004;Centre-Ouest;Citadine;0.0
+692970;Male;26-35;Alagoas;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+1208087;Female;46-55;Mato Grosso do Sul;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+485653;Corporate;26-35;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1432808;Corporate;46-55;Minas Gerais;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+50124;Female;46-55;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Berlines;0.0
+356589;Female;26-35;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+467746;Male;>55;Minas Gerais;1;0;1;0;0;0;2007-2010;Sud-Est;Compactes;12027.0
+1131642;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Breaks et monospaces;0.0
+1802812;Female;46-55;Maranhao;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+1175923;Male;46-55;Alagoas;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+1099049;Male;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+321190;Male;36-45;Sao Paulo;1;0;1;0;0;0;1995-1998;Sud-Est;Citadine;2630.0
+1045316;Female;>55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+1942583;Male;26-35;Rio Grande do Sul;0;0;0;0;0;0;<1995;Sud;Non classifié;0.0
+336781;Male;26-35;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+58761;Female;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1241709;Male;36-45;Rio Grande do Sul;1;0;1;0;0;0;2010-2013;Sud;Véhicules utilitaires;2078.0
+1110899;Male;46-55;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+500832;Female;>55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+949905;Female;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+865700;Male;36-45;Tocantins;0;0;0;0;0;0;2004-2007;Nord;Compactes;0.0
+108499;Female;36-45;Santa Catarina;1;0;1;0;0;0;2001-2004;Sud;Breaks et monospaces;1107.0
+630720;Male;46-55;Sergipe;3;0;1;0;0;1;2004-2007;Nord-Est;Berlines;783.3333333333334
+662331;Corporate;46-55;Pernambuco;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+60883;Corporate;36-45;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Compactes;0.0
+24745;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1471702;Male;36-45;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules tout-terrain;0.0
+1339988;Corporate;>55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules tout-terrain;0.0
+920803;Male;26-35;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Berlines;0.0
+1542108;Male;18-25;Ceara;2;0;0;0;0;1;2007-2010;Nord-Est;Véhicules utilitaires sportifs;67.0
+947194;Male;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Breaks et monospaces;0.0
+306477;Female;>55;Sao Paulo;1;0;0;0;0;1;2010-2013;Sud-Est;Compactes;67.0
+377501;Female;36-45;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Compactes;0.0
+986469;Female;>55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Non classifié;0.0
+1815281;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Non classifié;0.0
+1822500;Corporate;36-45;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Non classifié;0.0
+684687;Female;>55;Rio Grande do Norte;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+1250921;Female;>55;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Véhicules utilitaires sportifs;0.0
+655579;Female;26-35;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+622581;Male;46-55;Bahia;1;1;0;0;0;0;2007-2010;Nord-Est;Compactes;30682.0
+839595;Male;46-55;Goias;5;0;0;1;0;1;2004-2007;Centre-Ouest;Compactes;4970.0
+1435049;Female;>55;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1804947;Male;>55;Amazonas;0;0;0;0;0;0;2007-2010;Nord;Véhicules utilitaires;0.0
+1496443;Male;46-55;Bahia;0;0;0;0;0;0;1998-2001;Nord-Est;Véhicules utilitaires;0.0
+83423;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1526762;Male;36-45;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+1753343;Male;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Motos;0.0
+570372;Female;18-25;Rio de Janeiro;0;0;0;0;0;0;1995-1998;Sud-Est;Citadine;0.0
+1938096;Male;>55;Parana;1;0;1;0;0;0;2007-2010;Sud;Berlines;1293.0
+247582;Male;>55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1715550;Corporate;36-45;Ceara;0;0;0;0;0;0;2010-2013;Nord-Est;Non classifié;0.0
+1000559;Female;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1383183;Male;18-25;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Non classifié;0.0
+321350;Male;36-45;Sao Paulo;1;0;0;0;0;1;2001-2004;Sud-Est;Citadine;79.0
+1785370;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+1516778;Male;36-45;Pernambuco;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules tout-terrain;0.0
+345663;Female;26-35;Sao Paulo;11;1;1;0;0;1;2004-2007;Sud-Est;Non classifié;21576.727272727272
+362895;Female;>55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1200678;Female;26-35;Roraima;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+919357;Female;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+719529;Corporate;36-45;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+1286454;Male;36-45;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+1375814;Male;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules tout-terrain;0.0
+1743465;Male;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Motos;0.0
+236149;Male;46-55;Parana;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+184286;Male;36-45;Parana;1;0;1;0;0;0;2007-2010;Sud;Compactes;5029.0
+1780100;Male;26-35;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Motos;0.0
+1259264;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;<1995;Sud;Véhicules utilitaires;0.0
+918694;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+304903;Female;>55;Sao Paulo;4;0;0;0;0;1;1998-2001;Sud-Est;Compactes;41.5
+1218211;Male;26-35;Distrito Federal;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+266196;Male;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+806608;Female;26-35;Mato Grosso do Sul;0;0;0;0;0;0;2010-2013;Centre-Ouest;Compactes;0.0
+1248756;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Véhicules tout-terrain;0.0
+69131;Corporate;36-45;Amazonas;0;0;0;0;0;0;2004-2007;Nord;Citadine;0.0
+1918278;Male;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+1531089;Female;36-45;Alagoas;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules utilitaires sportifs;0.0
+86661;Male;36-45;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Compactes;0.0
+145424;Male;>55;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1825729;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+738118;Male;46-55;Maranhao;0;0;0;0;0;0;1998-2001;Nord-Est;Compactes;0.0
+652242;Male;36-45;Pernambuco;0;0;0;0;0;0;2001-2004;Nord-Est;Citadine;0.0
+1287182;Corporate;46-55;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires;0.0
+1941422;Female;26-35;Bahia;3;0;1;0;0;1;2010-2013;Nord-Est;Citadine;4303.333333333333
+590077;Male;>55;Esperito Santo;4;0;1;0;0;1;2007-2010;Sud-Est;Citadine;67.5
+1765517;Female;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Non classifié;0.0
+1808893;Corporate;36-45;Mato Grosso do Sul;0;0;0;0;0;0;2007-2010;Centre-Ouest;Motos;0.0
+52649;Male;36-45;Minas Gerais;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+474512;Male;>55;Minas Gerais;10;0;1;0;0;1;2007-2010;Sud-Est;Breaks et monospaces;1915.4
+924658;Male;26-35;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Véhicules tout-terrain;0.0
+1902391;Corporate;46-55;Pernambuco;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+1563171;Male;46-55;Rondonia;0;0;0;0;0;0;2007-2010;Nord;Véhicules utilitaires;0.0
+1948798;Female;36-45;Parana;0;0;0;0;0;0;1998-2001;Sud;Berlines;0.0
+623866;Female;>55;Bahia;2;0;1;0;0;0;2007-2010;Nord-Est;Véhicules électriques et hybrides;1984.5
+1340935;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+1414276;Male;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+950614;Male;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1916454;Female;18-25;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1340850;Male;26-35;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+1920176;Female;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1846011;Male;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1235267;Male;26-35;Tocantins;0;0;0;0;0;0;2007-2010;Nord;Véhicules utilitaires sportifs;0.0
+897565;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Breaks et monospaces;0.0
+341389;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+359295;Male;18-25;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1239870;Female;36-45;Rio Grande do Sul;1;0;1;0;0;0;2010-2013;Sud;Véhicules utilitaires sportifs;150.0
+1008332;Male;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+214377;Female;46-55;Parana;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+783241;Female;26-35;Mato Grosso;0;0;0;0;0;0;2007-2010;Centre-Ouest;Compactes;0.0
+1094510;Female;36-45;Minas Gerais;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+857832;Male;46-55;Goias;0;0;0;0;0;0;2004-2007;Centre-Ouest;Citadine;0.0
+192617;Male;>55;Parana;0;0;0;0;0;0;1998-2001;Sud;Compactes;0.0
+132482;Male;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1687303;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;0.0
+611845;Male;>55;Bahia;0;0;0;0;0;0;1998-2001;Nord-Est;Compactes;0.0
+1819941;Male;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires sportifs;0.0
+453985;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires sportifs;0.0
+1466609;Male;>55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+325140;Male;36-45;Sao Paulo;10;1;1;0;0;0;2007-2010;Sud-Est;Compactes;5208.2
+922100;Female;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Breaks et monospaces;0.0
+97846;Corporate;46-55;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Compactes;0.0
+502487;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+555115;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+866729;Corporate;36-45;Tocantins;0;0;0;0;0;0;2001-2004;Nord;Citadine;0.0
+1377295;Female;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Non classifié;0.0
+1434863;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;0.0
+165991;Female;36-45;Parana;0;0;0;0;0;0;2010-2013;Sud;Compactes;0.0
+171109;Male;46-55;Parana;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+1789202;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1805442;Male;18-25;Amazonas;0;0;0;0;0;0;2007-2010;Nord;Motos;0.0
+133245;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Breaks et monospaces;0.0
+528990;Female;36-45;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires sportifs;0.0
+636816;Male;46-55;Sergipe;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+676692;Male;26-35;Rio Grande do Norte;0;0;0;0;0;0;2007-2010;Nord-Est;Breaks et monospaces;0.0
+1134373;Male;>55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1095387;Male;46-55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+967392;Male;>55;Parana;0;0;0;0;0;0;<1995;Sud;Citadine;0.0
+720376;Male;36-45;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+1736508;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Motos;0.0
+594112;Male;26-35;Esperito Santo;3;0;0;0;0;1;2001-2004;Sud-Est;Citadine;108.33333333333333
+1468748;Female;36-45;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires sportifs;0.0
+67412;Female;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+959995;Male;26-35;Parana;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+366640;Female;>55;Sao Paulo;4;0;0;0;0;1;2004-2007;Sud-Est;Citadine;43.75
+478829;Female;>55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+814669;Female;26-35;Distrito Federal;2;0;0;0;0;1;1998-2001;Centre-Ouest;Berlines;130.0
+916910;Male;>55;Santa Catarina;1;0;1;0;0;0;2004-2007;Sud;Compactes;2692.0
+754823;Male;26-35;Para;0;0;0;0;0;0;2007-2010;Nord;Compactes;0.0
+1140891;Male;46-55;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+606636;Corporate;36-45;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+1516155;Female;36-45;Pernambuco;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules tout-terrain;0.0
+938988;Female;46-55;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+551589;Female;26-35;Rio de Janeiro;1;0;1;0;0;0;2007-2010;Sud-Est;Compactes;3648.0
+291053;Female;46-55;Sao Paulo;2;0;0;0;0;1;1998-2001;Sud-Est;Breaks et monospaces;51.5
+1115231;Female;46-55;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+660604;Female;46-55;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Compactes;0.0
+1535523;Male;26-35;Ceara;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules tout-terrain;0.0
+96580;Female;36-45;Ceara;0;0;0;0;0;0;2001-2004;Nord-Est;Compactes;0.0
+1529030;Male;36-45;Rio Grande do Norte;0;0;0;0;0;0;1998-2001;Nord-Est;Véhicules utilitaires sportifs;0.0
+526667;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;1998-2001;Sud-Est;Compactes;0.0
+819337;Female;>55;Distrito Federal;1;0;0;0;0;1;1998-2001;Centre-Ouest;Compactes;48.0
+1122612;Male;>55;Rio de Janeiro;1;1;0;0;0;0;2001-2004;Sud-Est;Compactes;29537.0
+884732;Female;>55;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+58959;Female;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Compactes;0.0
+90192;Male;46-55;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1811534;Male;>55;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Véhicules utilitaires;0.0
+56494;Female;>55;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+823566;Male;18-25;Distrito Federal;0;0;0;0;0;0;2010-2013;Centre-Ouest;Compactes;0.0
+1667235;Male;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1827885;Male;36-45;Santa Catarina;1;0;0;0;0;1;1998-2001;Sud;Véhicules utilitaires;482.0
+238745;Corporate;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Citadine;0.0
+590615;Female;>55;Esperito Santo;4;0;1;0;0;1;2007-2010;Sud-Est;Compactes;419.5
+354394;Male;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+425237;Male;18-25;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+1823828;Corporate;26-35;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires;0.0
+1531450;Female;46-55;Alagoas;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires sportifs;0.0
+1472300;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+320456;Male;18-25;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Citadine;0.0
+454334;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+794692;Female;36-45;Mato Grosso do Sul;2;0;1;0;0;0;2010-2013;Centre-Ouest;Compactes;1227.0
+1670050;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+933585;Female;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Berlines;0.0
+1109878;Male;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+1109856;Female;>55;Rio de Janeiro;1;0;0;1;0;0;2004-2007;Sud-Est;Breaks et monospaces;59010.0
+569249;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1011847;Male;>55;Sao Paulo;2;0;0;0;0;1;2001-2004;Sud-Est;Berlines;73.0
+1157126;Female;26-35;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules tout-terrain;0.0
+41344;Female;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+565602;Male;26-35;Rio de Janeiro;2;1;0;0;0;0;2004-2007;Sud-Est;Compactes;13258.0
+343275;Female;26-35;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+750987;Female;46-55;Para;1;0;1;0;0;0;2010-2013;Nord;Breaks et monospaces;5048.0
+1792133;Male;46-55;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Motos;0.0
+1652367;Corporate;26-35;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+1222019;Male;>55;Distrito Federal;1;0;1;0;0;0;2007-2010;Centre-Ouest;Citadine;31085.0
+698728;Corporate;36-45;Alagoas;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+893464;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1094842;Female;>55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+905181;Female;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Breaks et monospaces;0.0
+1551012;Corporate;36-45;Maranhao;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires sportifs;0.0
+748806;Male;>55;Para;0;0;0;0;0;0;1995-1998;Nord;Citadine;0.0
+1593995;Female;36-45;Goias;1;0;1;0;0;0;2007-2010;Centre-Ouest;Véhicules utilitaires;6055.0
+236766;Male;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+730657;Female;46-55;Piaui;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+307673;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules historiques;0.0
+1506428;Corporate;36-45;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+1227946;Male;26-35;Goias;0;0;0;0;0;0;2004-2007;Centre-Ouest;Citadine;0.0
+324752;Male;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1265145;Female;>55;Rio Grande do Sul;0;0;0;0;0;0;1995-1998;Sud;Non classifié;0.0
+1493342;Corporate;>55;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Breaks et monospaces;0.0
+478238;Male;36-45;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires sportifs;0.0
+746182;Male;46-55;Para;0;0;0;0;0;0;1998-2001;Nord;Citadine;0.0
+1546135;Female;>55;Piaui;0;0;0;0;0;0;2010-2013;Nord-Est;Non classifié;0.0
+1095938;Female;>55;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Breaks et monospaces;0.0
+9664;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+467790;Female;>55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1291271;Male;46-55;Santa Catarina;0;0;0;0;0;0;1998-2001;Sud;Véhicules utilitaires;0.0
+296;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Breaks et monospaces;0.0
+1457087;Male;46-55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1906932;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+994841;Female;36-45;Sao Paulo;1;0;1;0;0;0;2001-2004;Sud-Est;Breaks et monospaces;3932.0
+726432;Male;36-45;Piaui;0;0;0;0;0;0;2010-2013;Nord-Est;Compactes;0.0
+814481;Female;26-35;Distrito Federal;2;1;1;0;0;0;2010-2013;Centre-Ouest;Citadine;23380.5
+807623;Male;36-45;Mato Grosso do Sul;0;0;0;0;0;0;2001-2004;Centre-Ouest;Breaks et monospaces;0.0
+140564;Male;36-45;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+494731;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+17772;Male;18-25;Sao Paulo;1;0;1;0;0;0;2004-2007;Sud-Est;Citadine;3556.0
+489424;Male;36-45;Minas Gerais;1;0;1;0;0;0;1995-1998;Sud-Est;Citadine;878.0
+1113014;Female;46-55;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires sportifs;0.0
+1328661;Female;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+1520072;Male;36-45;Paraiba;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+985323;Female;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+772365;Female;26-35;Roraima;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+1631152;Male;26-35;Parana;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires;0.0
+1539152;Male;36-45;Ceara;5;0;1;1;0;1;2010-2013;Nord-Est;Citadine;8949.0
+847152;Female;26-35;Goias;0;0;0;0;0;0;2004-2007;Centre-Ouest;Compactes;0.0
+989862;Male;46-55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1169712;Female;>55;Paraiba;0;0;0;0;0;0;2010-2013;Nord-Est;Compactes;0.0
+18503;Male;36-45;Goias;0;0;0;0;0;0;2004-2007;Centre-Ouest;Citadine;0.0
+1365575;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+196723;Male;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+897884;Male;36-45;Rio Grande do Sul;1;0;0;1;0;0;2007-2010;Sud;Breaks et monospaces;34715.0
+1006837;Male;18-25;Sao Paulo;1;0;0;0;0;1;2010-2013;Sud-Est;Citadine;1933.0
+725118;Female;46-55;Piaui;0;0;0;0;0;0;2001-2004;Nord-Est;Citadine;0.0
+1934486;Male;36-45;Sao Paulo;1;0;1;0;0;0;2010-2013;Sud-Est;Compactes;9579.0
+604609;Corporate;>55;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+953089;Corporate;>55;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1214254;Female;>55;Distrito Federal;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1334862;Corporate;26-35;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires sportifs;0.0
+1145367;Female;26-35;Esperito Santo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+586740;Female;26-35;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1385974;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules tout-terrain;0.0
+1318998;Male;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires sportifs;0.0
+1020612;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1310036;Male;36-45;Parana;0;0;0;0;0;0;1998-2001;Sud;Véhicules utilitaires sportifs;0.0
+1232496;Female;26-35;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Compactes;0.0
+1010257;Female;46-55;Sao Paulo;1;1;0;0;0;0;2007-2010;Sud-Est;Citadine;45312.0
+101160;Corporate;46-55;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules électriques et hybrides;0.0
+723440;Male;>55;Piaui;0;0;0;0;0;0;2001-2004;Nord-Est;Berlines;0.0
+1194795;Male;46-55;Para;0;0;0;0;0;0;2007-2010;Nord;Non classifié;0.0
+434957;Male;26-35;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+610124;Male;36-45;Bahia;4;0;1;0;0;1;2010-2013;Nord-Est;Compactes;3417.0
+342990;Female;>55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+9526;Female;18-25;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+883209;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+202198;Male;36-45;Parana;3;0;1;0;0;0;2001-2004;Sud;Breaks et monospaces;2560.3333333333335
+1019437;Female;26-35;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+476792;Female;>55;Minas Gerais;0;0;0;0;0;0;<1995;Sud-Est;Compactes;0.0
+1809917;Male;26-35;Distrito Federal;0;0;0;0;0;0;2004-2007;Centre-Ouest;Motos;0.0
+377081;Male;36-45;Sao Paulo;4;1;1;0;0;0;1995-1998;Sud-Est;Citadine;9159.25
+1634486;Male;46-55;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+633632;Female;26-35;Sergipe;0;0;0;0;0;0;2004-2007;Nord-Est;Compactes;0.0
+310172;Female;36-45;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Citadine;0.0
+642973;Corporate;36-45;Pernambuco;0;0;0;0;0;0;2004-2007;Nord-Est;Breaks et monospaces;0.0
+77437;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+876172;Female;>55;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1376377;Female;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Non classifié;0.0
+103533;Male;26-35;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1021895;Corporate;>55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Berlines;0.0
+1590016;Corporate;36-45;Distrito Federal;0;0;0;0;0;0;1995-1998;Centre-Ouest;Véhicules utilitaires sportifs;0.0
+269989;Male;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1886319;Corporate;26-35;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+240280;Male;46-55;Parana;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+610394;Male;>55;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires sportifs;0.0
+570895;Corporate;>55;Rio de Janeiro;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+736205;Female;>55;Maranhao;0;0;0;0;0;0;2004-2007;Nord-Est;Compactes;0.0
+1827642;Male;36-45;Santa Catarina;1;0;1;0;0;0;2007-2010;Sud;Véhicules utilitaires;21024.0
+841508;Female;>55;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+17291;Female;46-55;Rio Grande do Sul;1;0;0;1;0;0;2010-2013;Sud;Compactes;29461.0
+381840;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+1759915;Male;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Motos;0.0
+1618923;Female;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+1323377;Female;26-35;Parana;1;0;1;0;0;0;2007-2010;Sud;Véhicules utilitaires sportifs;9768.0
+1395260;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+199956;Male;36-45;Parana;0;0;0;0;0;0;1995-1998;Sud;Citadine;0.0
+1043584;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Berlines;0.0
+1319446;Male;>55;Parana;0;0;0;0;0;0;2004-2007;Sud;Non classifié;0.0
+1418665;Female;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires sportifs;0.0
+743114;Male;>55;Para;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+1235630;Female;26-35;Tocantins;0;0;0;0;0;0;2001-2004;Nord;Citadine;0.0
+1326409;Male;36-45;Parana;0;0;0;0;0;0;<1995;Sud;Véhicules utilitaires sportifs;0.0
+559876;Female;36-45;Rio de Janeiro;2;0;1;0;0;1;2007-2010;Sud-Est;Citadine;2255.5
+363490;Female;>55;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Non classifié;0.0
+1310080;Female;46-55;Parana;0;0;0;0;0;0;1995-1998;Sud;Véhicules utilitaires sportifs;0.0
+946001;Male;46-55;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1230976;Corporate;46-55;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+868601;Male;36-45;Tocantins;0;0;0;0;0;0;2001-2004;Nord;Compactes;0.0
+1352158;Male;26-35;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+394050;Male;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+984464;Male;36-45;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Véhicules utilitaires;0.0
+552979;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+34022;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+541235;Male;18-25;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+834156;Female;26-35;Distrito Federal;0;0;0;0;0;0;2004-2007;Centre-Ouest;Compactes;0.0
+1218924;Male;>55;Distrito Federal;0;0;0;0;0;0;2007-2010;Centre-Ouest;Citadine;0.0
+1898786;Male;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+1834405;Male;46-55;Parana;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires sportifs;0.0
+1795639;Corporate;36-45;Pernambuco;0;0;0;0;0;0;2001-2004;Nord-Est;Véhicules utilitaires;0.0
+1868019;Male;36-45;Mato Grosso;0;0;0;0;0;0;2004-2007;Centre-Ouest;Citadine;0.0
+1473900;Male;>55;Rio de Janeiro;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires sportifs;0.0
+82660;Female;46-55;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+1622831;Male;36-45;Santa Catarina;1;0;1;0;0;0;2004-2007;Sud;Véhicules utilitaires;10197.0
+225224;Female;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1859307;Male;46-55;Para;0;0;0;0;0;0;2007-2010;Nord;Véhicules utilitaires;0.0
+1692181;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+899005;Male;26-35;Rio Grande do Sul;1;0;1;0;0;0;2007-2010;Sud;Berlines;8813.0
+1677376;Male;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+744164;Female;26-35;Para;0;0;0;0;0;0;2004-2007;Nord;Berlines;0.0
+1402021;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+1428474;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules tout-terrain;0.0
+721537;Corporate;36-45;Piaui;0;0;0;0;0;0;2007-2010;Nord-Est;Citadine;0.0
+1604749;Male;36-45;Tocantins;3;1;1;0;0;1;2007-2010;Nord;Véhicules tout-terrain;6990.333333333333
+944885;Female;26-35;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1251116;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;<1995;Sud;Breaks et monospaces;0.0
+1495103;Male;>55;Bahia;1;0;0;0;0;1;2001-2004;Nord-Est;Véhicules tout-terrain;72.0
+1638594;Corporate;36-45;Parana;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires;0.0
+1596202;Corporate;36-45;Goias;0;0;0;0;0;0;2004-2007;Centre-Ouest;Véhicules utilitaires;0.0
+1128433;Male;>55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+630501;Male;46-55;Sergipe;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+777459;Female;26-35;Acre;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+632583;Female;46-55;Sergipe;0;0;0;0;0;0;2001-2004;Nord-Est;Compactes;0.0
+1392107;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+899130;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Berlines;0.0
+48171;Male;18-25;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Breaks et monospaces;0.0
+297003;Female;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+808414;Female;46-55;Mato Grosso do Sul;0;0;0;0;0;0;2007-2010;Centre-Ouest;Citadine;0.0
+1107598;Female;>55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules tout-terrain;0.0
+440438;Female;>55;Minas Gerais;1;0;1;0;0;0;2010-2013;Sud-Est;Citadine;1397.0
+529502;Male;18-25;Rio de Janeiro;2;0;1;0;0;0;2007-2010;Sud-Est;Compactes;4570.0
+1170406;Female;46-55;Paraiba;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+808586;Female;36-45;Mato Grosso do Sul;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1387205;Male;46-55;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+1694488;Male;36-45;Rio de Janeiro;1;0;1;0;0;0;1995-1998;Sud-Est;Véhicules utilitaires;30.0
+1103566;Female;>55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1160072;Male;>55;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Non classifié;0.0
+1835106;Male;>55;Parana;0;0;0;0;0;0;<1995;Sud;Véhicules utilitaires;0.0
+529870;Female;18-25;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+592682;Male;>55;Esperito Santo;0;0;0;0;0;0;1995-1998;Sud-Est;Breaks et monospaces;0.0
+1794532;Male;26-35;Bahia;0;0;0;0;0;0;2010-2013;Nord-Est;Motos;0.0
+1256219;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Véhicules utilitaires;0.0
+1655970;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+1839396;Male;18-25;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;0.0
+1866649;Male;46-55;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+1172475;Female;>55;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+926951;Male;>55;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Breaks et monospaces;0.0
+1693293;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+1717751;Female;26-35;Piaui;0;0;0;0;0;0;1998-2001;Nord-Est;Véhicules utilitaires;0.0
+576864;Corporate;26-35;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+43262;Female;>55;Parana;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+902139;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1552714;Female;>55;Para;0;0;0;0;0;0;2007-2010;Nord;Véhicules tout-terrain;0.0
+1666970;Female;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Non classifié;0.0
+1541120;Male;46-55;Ceara;2;0;1;0;0;1;2007-2010;Nord-Est;Non classifié;1625.0
+1783618;Male;46-55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Motos;0.0
+506949;Female;46-55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1328638;Male;18-25;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+1413546;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1700426;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+172892;Male;18-25;Parana;0;0;0;0;0;0;1995-1998;Sud;Citadine;0.0
+1734479;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+902415;Male;26-35;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+1611718;Male;36-45;Rio Grande do Sul;2;0;1;0;0;1;2010-2013;Sud;Véhicules utilitaires;28.0
+1441327;Male;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules tout-terrain;0.0
+691027;Female;26-35;Alagoas;0;0;0;0;0;0;1998-2001;Nord-Est;Citadine;0.0
+1674143;Male;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+1036486;Female;26-35;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+1076986;Male;46-55;Minas Gerais;1;0;1;0;0;0;2007-2010;Sud-Est;Compactes;6439.0
+185716;Corporate;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+502396;Female;46-55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+736748;Female;>55;Maranhao;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+1010947;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1454811;Male;26-35;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules tout-terrain;0.0
+823063;Male;>55;Distrito Federal;0;0;0;0;0;0;2010-2013;Centre-Ouest;Compactes;0.0
+980461;Female;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+854872;Male;36-45;Goias;1;0;1;0;0;0;2004-2007;Centre-Ouest;Compactes;24.0
+47611;Corporate;46-55;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1831576;Female;36-45;Santa Catarina;1;0;1;0;0;0;1995-1998;Sud;Véhicules utilitaires;8712.0
+662467;Female;26-35;Pernambuco;1;0;1;0;0;0;2007-2010;Nord-Est;Compactes;1205.0
+295958;Male;>55;Sao Paulo;2;0;0;0;0;1;2004-2007;Sud-Est;Breaks et monospaces;79.0
+1114155;Male;>55;Rio de Janeiro;0;0;0;0;0;0;1998-2001;Sud-Est;Compactes;0.0
+917072;Female;26-35;Santa Catarina;1;0;1;0;0;0;2007-2010;Sud;Compactes;1311.0
+240832;Female;46-55;Parana;1;0;0;0;0;1;2004-2007;Sud;Compactes;48.0
+944452;Female;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1381906;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+719745;Female;>55;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Citadine;0.0
+1640991;Male;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires;0.0
+1790286;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Motos;0.0
+410573;Male;36-45;Sao Paulo;1;0;1;0;0;0;2010-2013;Sud-Est;Citadine;557.0
+1809212;Male;46-55;Distrito Federal;0;0;0;0;0;0;2004-2007;Centre-Ouest;Breaks et monospaces;0.0
+265443;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+456921;Male;36-45;Minas Gerais;1;1;0;0;0;0;2010-2013;Sud-Est;Compactes;18658.0
+145538;Corporate;46-55;Santa Catarina;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+659718;Female;>55;Pernambuco;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+1030518;Male;>55;Sao Paulo;1;0;0;0;0;1;2001-2004;Sud-Est;Compactes;48.0
+1808188;Male;>55;Mato Grosso do Sul;0;0;0;0;0;0;2007-2010;Centre-Ouest;Breaks et monospaces;0.0
+296108;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+435380;Female;26-35;Minas Gerais;1;0;0;0;0;1;1998-2001;Sud-Est;Breaks et monospaces;36.0
+967840;Female;46-55;Parana;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+428839;Male;>55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Berlines;0.0
+1631224;Corporate;36-45;Parana;0;0;0;0;0;0;<1995;Sud;Véhicules utilitaires;0.0
+1576011;Corporate;36-45;Mato Grosso do Sul;0;0;0;0;0;0;2007-2010;Centre-Ouest;Véhicules tout-terrain;0.0
+119195;Female;46-55;Santa Catarina;0;0;0;0;0;0;<1995;Sud;Non classifié;0.0
+1261176;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+1714209;Male;46-55;Rio Grande do Norte;0;0;0;0;0;0;2001-2004;Nord-Est;Véhicules utilitaires;0.0
+77538;Male;36-45;Rio Grande do Sul;1;0;0;1;0;0;1998-2001;Sud;Breaks et monospaces;570.0
+33027;Corporate;46-55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1732618;Female;26-35;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Véhicules utilitaires;0.0
+1439209;Male;26-35;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+586856;Female;36-45;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1714847;Corporate;36-45;Alagoas;0;0;0;0;0;0;2001-2004;Nord-Est;Véhicules utilitaires;0.0
+203838;Female;26-35;Parana;7;0;1;0;0;1;2007-2010;Sud;Citadine;1489.142857142857
+428530;Female;26-35;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Berlines;0.0
+919849;Female;26-35;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Berlines;0.0
+1384073;Male;>55;Sao Paulo;5;1;1;0;0;1;2007-2010;Sud-Est;Breaks et monospaces;6385.4
+278512;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Berlines;0.0
+583373;Corporate;26-35;Esperito Santo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+1385134;Female;>55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;0.0
+655546;Corporate;46-55;Pernambuco;0;0;0;0;0;0;2007-2010;Nord-Est;Citadine;0.0
+822909;Male;18-25;Distrito Federal;1;0;0;0;0;1;2007-2010;Centre-Ouest;Compactes;353.0
+1048321;Male;>55;Sao Paulo;1;0;1;0;0;0;2004-2007;Sud-Est;Citadine;5415.0
+385641;Male;>55;Sao Paulo;1;0;0;0;0;1;1998-2001;Sud-Est;Berlines;353.0
+1658607;Male;18-25;Sao Paulo;1;0;0;0;0;1;1998-2001;Sud-Est;Véhicules utilitaires;70.0
+57707;Female;36-45;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Compactes;0.0
+744699;Female;36-45;Para;0;0;0;0;0;0;2004-2007;Nord;Citadine;0.0
+292329;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+907922;Male;26-35;Rio Grande do Sul;0;0;0;0;0;0;1995-1998;Sud;Berlines;0.0
+1874824;Female;26-35;Santa Catarina;2;0;1;0;0;0;2010-2013;Sud;Compactes;1121.5
+316740;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Breaks et monospaces;0.0
+622222;Female;26-35;Bahia;5;0;0;1;0;1;2007-2010;Nord-Est;Compactes;7152.0
+1668273;Female;46-55;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Véhicules utilitaires;0.0
+75019;Female;26-35;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1140390;Male;18-25;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1786262;Male;46-55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Motos;0.0
+770250;Female;36-45;Rondonia;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+822170;Female;46-55;Distrito Federal;1;0;1;0;0;0;2004-2007;Centre-Ouest;Compactes;1988.0
+1540065;Male;36-45;Ceara;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+1489210;Male;36-45;Esperito Santo;1;0;0;0;0;1;2007-2010;Sud-Est;Véhicules utilitaires;653.0
+912802;Male;26-35;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1725702;Male;36-45;Mato Grosso;0;0;0;0;0;0;2004-2007;Centre-Ouest;Véhicules utilitaires;0.0
+117398;Male;26-35;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1471998;Male;36-45;Rio de Janeiro;1;0;1;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;21703.0
+139303;Male;18-25;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+841324;Female;18-25;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Citadine;0.0
+1910205;Male;>55;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1160823;Female;>55;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Berlines;0.0
+674530;Female;46-55;Paraiba;0;0;0;0;0;0;2001-2004;Nord-Est;Citadine;0.0
+368833;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1462977;Male;46-55;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;0.0
+1894558;Female;18-25;Sao Paulo;1;0;1;0;0;0;2010-2013;Sud-Est;Compactes;10914.0
+1721807;Male;46-55;Amazonas;0;0;0;0;0;0;2010-2013;Nord;Véhicules utilitaires;0.0
+1346491;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Berlines;0.0
+1171236;Corporate;36-45;Paraiba;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules tout-terrain;0.0
+1723658;Male;>55;Mato Grosso;0;0;0;0;0;0;<1995;Centre-Ouest;Véhicules utilitaires;0.0
+1488648;Male;36-45;Esperito Santo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+555676;Male;26-35;Rio de Janeiro;2;1;0;1;0;0;2007-2010;Sud-Est;Compactes;26265.5
+1604075;Female;36-45;Tocantins;0;0;0;0;0;0;2007-2010;Nord;Citadine;0.0
+264511;Male;>55;Sao Paulo;3;0;0;0;0;1;2001-2004;Sud-Est;Citadine;50.333333333333336
+1176956;Male;18-25;Alagoas;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+384347;Female;>55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1248606;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Véhicules tout-terrain;0.0
+32378;Female;46-55;Rio Grande do Sul;2;0;0;0;0;1;1995-1998;Sud;Citadine;67.0
+1346;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+21814;Female;36-45;Paraiba;0;0;0;0;0;0;2007-2010;Nord-Est;Citadine;0.0
+448140;Female;>55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+286803;Male;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+312761;Male;>55;Sao Paulo;3;0;0;0;0;1;2004-2007;Sud-Est;Compactes;71.33333333333333
+1349607;Male;>55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+342966;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+941677;Male;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1878133;Male;26-35;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Berlines;0.0
+663942;Corporate;36-45;Paraiba;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+642151;Female;46-55;Pernambuco;11;1;1;0;0;1;2004-2007;Nord-Est;Citadine;2546.818181818182
+479139;Corporate;26-35;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+1158853;Male;36-45;Bahia;1;0;1;0;0;0;2007-2010;Nord-Est;Non classifié;2100.0
+846526;Male;36-45;Goias;0;0;0;0;0;0;1998-2001;Centre-Ouest;Véhicules utilitaires;0.0
+899712;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1379699;Male;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+735264;Female;36-45;Maranhao;1;0;1;0;0;0;2001-2004;Nord-Est;Compactes;4966.0
+996961;Female;36-45;Sao Paulo;2;1;1;0;0;0;2010-2013;Sud-Est;Citadine;13608.0
+789826;Female;46-55;Mato Grosso;1;0;1;0;0;0;2007-2010;Centre-Ouest;Compactes;1214.0
+109599;Female;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+1942973;Female;18-25;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+220513;Female;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Breaks et monospaces;0.0
+1158953;Female;>55;Sergipe;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+1255296;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;<1995;Sud;Véhicules utilitaires;0.0
+1344180;Male;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+1382957;Female;>55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules tout-terrain;0.0
+329406;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+510854;Male;36-45;Minas Gerais;1;1;0;0;0;0;1998-2001;Sud-Est;Citadine;13185.0
+1132398;Female;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1068539;Female;46-55;Sao Paulo;2;0;1;0;0;1;2010-2013;Sud-Est;Compactes;2622.0
+975833;Male;>55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Berlines;0.0
+1603777;Male;26-35;Goias;1;0;0;0;0;1;2010-2013;Centre-Ouest;Véhicules tout-terrain;447.0
+834100;Female;26-35;Distrito Federal;0;0;0;0;0;0;2001-2004;Centre-Ouest;Véhicules utilitaires;0.0
+1827953;Male;36-45;Santa Catarina;1;0;0;0;0;1;1995-1998;Sud;Véhicules utilitaires;2522.0
+713743;Male;18-25;Ceara;1;0;1;0;0;0;1995-1998;Nord-Est;Citadine;4421.0
+979101;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+587742;Corporate;36-45;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1122328;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Berlines;0.0
+1030397;Female;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Berlines;0.0
+1614988;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;1995-1998;Sud;Véhicules utilitaires;0.0
+1332806;Corporate;36-45;Parana;0;0;0;0;0;0;<1995;Sud;Citadine;0.0
+213403;Corporate;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+1386256;Female;26-35;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules tout-terrain;0.0
+351879;Male;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1522000;Corporate;36-45;Paraiba;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules tout-terrain;0.0
+1033331;Female;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+375477;Male;26-35;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1224504;Corporate;36-45;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Compactes;0.0
+1327134;Female;18-25;Parana;0;0;0;0;0;0;2007-2010;Sud;Véhicules tout-terrain;0.0
+1216930;Female;36-45;Distrito Federal;0;0;0;0;0;0;2001-2004;Centre-Ouest;Compactes;0.0
+807803;Female;26-35;Mato Grosso do Sul;0;0;0;0;0;0;2004-2007;Centre-Ouest;Compactes;0.0
+633180;Female;>55;Sergipe;0;0;0;0;0;0;2001-2004;Nord-Est;Compactes;0.0
+403932;Male;26-35;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Citadine;0.0
+1584553;Female;36-45;Distrito Federal;0;0;0;0;0;0;2007-2010;Centre-Ouest;Véhicules tout-terrain;0.0
+1688714;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+320769;Male;36-45;Sao Paulo;1;0;0;0;0;1;<1995;Sud-Est;Citadine;79.0
+886523;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Breaks et monospaces;0.0
+1156921;Male;36-45;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Berlines;0.0
+228736;Male;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1703912;Male;36-45;Esperito Santo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1188670;Female;>55;Piaui;0;0;0;0;0;0;2010-2013;Nord-Est;Non classifié;0.0
+810960;Female;>55;Distrito Federal;1;0;0;0;0;1;2001-2004;Centre-Ouest;Citadine;48.0
+1483692;Corporate;46-55;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires sportifs;0.0
+877571;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+1194900;Male;18-25;Para;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+608358;Male;36-45;Bahia;0;0;0;0;0;0;2001-2004;Nord-Est;Citadine;0.0
+1022751;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Berlines;0.0
+477182;Female;36-45;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1159726;Female;36-45;Sergipe;0;0;0;0;0;0;2010-2013;Nord-Est;Compactes;0.0
+602809;Male;46-55;Esperito Santo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+913237;Female;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Citadine;0.0
+882952;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+1526830;Corporate;36-45;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+1142175;Female;46-55;Esperito Santo;0;0;0;0;0;0;<1995;Sud-Est;Berlines;0.0
+1516475;Male;>55;Pernambuco;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules tout-terrain;0.0
+1821323;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1174110;Female;46-55;Rio Grande do Norte;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules électriques et hybrides;0.0
+959778;Male;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+777123;Male;46-55;Acre;0;0;0;0;0;0;2007-2010;Nord;Véhicules électriques et hybrides;0.0
+186218;Female;46-55;Parana;2;0;1;0;0;1;2010-2013;Sud;Citadine;437.0
+1356258;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+327372;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+1441666;Female;26-35;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1017186;Corporate;>55;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Compactes;0.0
+767721;Female;46-55;Amapa;0;0;0;0;0;0;2007-2010;Nord;Citadine;0.0
+420494;Female;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+136887;Male;46-55;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Berlines;0.0
+1919873;Female;46-55;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1717359;Male;36-45;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Non classifié;0.0
+583022;Female;36-45;Esperito Santo;4;0;1;0;0;1;2004-2007;Sud-Est;Citadine;283.0
+413633;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+425842;Corporate;>55;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+334867;Male;26-35;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+795107;Corporate;36-45;Mato Grosso do Sul;0;0;0;0;0;0;2007-2010;Centre-Ouest;Citadine;0.0
+1348700;Male;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Breaks et monospaces;0.0
+1101222;Male;26-35;Minas Gerais;5;0;0;0;0;1;2004-2007;Sud-Est;Berlines;36.0
+1064296;Male;>55;Sao Paulo;6;1;1;0;0;0;2007-2010;Sud-Est;Citadine;10603.5
+1395379;Male;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Non classifié;0.0
+967887;Male;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+952800;Male;46-55;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+506483;Female;>55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+1523701;Female;46-55;Rio Grande do Norte;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+1448465;Male;26-35;Minas Gerais;1;0;1;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;1229.0
+1374642;Male;46-55;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Non classifié;0.0
+1924161;Female;26-35;Santa Catarina;0;0;0;0;0;0;<1995;Sud;Citadine;0.0
+302656;Female;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+960753;Female;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+843817;Female;>55;Goias;7;0;1;0;0;1;2001-2004;Centre-Ouest;Citadine;347.57142857142856
+1309749;Male;36-45;Parana;3;0;1;1;0;0;2010-2013;Sud;Citadine;39737.333333333336
+1501400;Male;36-45;Bahia;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+582607;Male;>55;Esperito Santo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+62585;Female;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Citadine;0.0
+796446;Female;46-55;Mato Grosso do Sul;0;0;0;0;0;0;2004-2007;Centre-Ouest;Berlines;0.0
+146716;Female;36-45;Santa Catarina;0;0;0;0;0;0;1995-1998;Sud;Citadine;0.0
+1643576;Female;>55;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+596340;Male;18-25;Esperito Santo;9;0;1;0;0;1;2010-2013;Sud-Est;Citadine;2424.8888888888887
+668484;Male;>55;Paraiba;0;0;0;0;0;0;1995-1998;Nord-Est;Compactes;0.0
+1693987;Corporate;46-55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+896947;Female;46-55;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+947473;Corporate;36-45;Parana;0;0;0;0;0;0;2010-2013;Sud;Breaks et monospaces;0.0
+1287037;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires;0.0
+1629615;Male;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+924919;Female;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Citadine;0.0
+1085504;Male;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1869198;Male;36-45;Pernambuco;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+1169143;Male;26-35;Paraiba;0;0;0;0;0;0;2004-2007;Nord-Est;Berlines;0.0
+557052;Male;>55;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules tout-terrain;0.0
+248356;Female;26-35;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Breaks et monospaces;0.0
+1035099;Male;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1810362;Male;26-35;Distrito Federal;0;0;0;0;0;0;2004-2007;Centre-Ouest;Motos;0.0
+1904479;Male;26-35;Santa Catarina;1;1;0;0;0;0;2010-2013;Sud;Citadine;342.0
+847877;Male;36-45;Goias;0;0;0;0;0;0;2004-2007;Centre-Ouest;Compactes;0.0
+6889;Corporate;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Citadine;0.0
+1592043;Corporate;36-45;Distrito Federal;0;0;0;0;0;0;2004-2007;Centre-Ouest;Breaks et monospaces;0.0
+1252685;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+1705828;Corporate;46-55;Bahia;0;0;0;0;0;0;2001-2004;Nord-Est;Véhicules utilitaires;0.0
+1222901;Female;18-25;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Compactes;0.0
+1928939;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+766848;Female;36-45;Amapa;1;0;1;0;0;0;2007-2010;Nord;Citadine;1421.0
+1921530;Female;18-25;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Véhicules tout-terrain;0.0
+267032;Female;>55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+918665;Female;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+597302;Male;26-35;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1669956;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+523094;Corporate;46-55;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Breaks et monospaces;0.0
+636189;Male;>55;Sergipe;1;0;1;0;0;0;2010-2013;Nord-Est;Citadine;3759.0
+609066;Female;46-55;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Compactes;0.0
+1927134;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;<1995;Sud;Véhicules utilitaires;0.0
+63690;Corporate;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+457766;Male;18-25;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1563693;Female;26-35;Roraima;1;0;0;0;0;1;2007-2010;Nord;Véhicules utilitaires;447.0
+1496550;Male;36-45;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules utilitaires;0.0
+1459774;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+440113;Corporate;46-55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+760468;Female;>55;Amazonas;0;0;0;0;0;0;2007-2010;Nord;Compactes;0.0
+127010;Male;36-45;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1425284;Female;46-55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+1307016;Corporate;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Non classifié;0.0
+1652735;Corporate;26-35;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+1084834;Female;46-55;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1257206;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+1435898;Female;36-45;Minas Gerais;1;0;1;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;1823.0
+1891589;Female;46-55;Alagoas;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires sportifs;0.0
+1691931;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+621098;Male;18-25;Bahia;2;1;1;0;0;0;2007-2010;Nord-Est;Breaks et monospaces;17960.5
+139365;Male;36-45;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+45073;Male;26-35;Santa Catarina;0;0;0;0;0;0;<1995;Sud;Citadine;0.0
+1882097;Male;26-35;Alagoas;0;0;0;0;0;0;2010-2013;Nord-Est;Compactes;0.0
+598586;Male;26-35;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules électriques et hybrides;0.0
+1002589;Female;46-55;Sao Paulo;1;1;0;0;0;0;1995-1998;Sud-Est;Compactes;17444.0
+161828;Male;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+329340;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1369793;Corporate;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+1116888;Male;46-55;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Breaks et monospaces;0.0
+77496;Female;46-55;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+679303;Male;36-45;Rio Grande do Norte;4;0;0;0;0;1;2004-2007;Nord-Est;Berlines;36.0
+275124;Female;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+737451;Male;46-55;Maranhao;0;0;0;0;0;0;2001-2004;Nord-Est;Citadine;0.0
+586524;Female;26-35;Esperito Santo;6;0;0;0;0;1;1998-2001;Sud-Est;Citadine;62.333333333333336
+320883;Male;46-55;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Breaks et monospaces;0.0
+757545;Corporate;26-35;Amazonas;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+1736611;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Motos;0.0
+129780;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Breaks et monospaces;0.0
+1490948;Male;36-45;Esperito Santo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires sportifs;0.0
+1658892;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+833636;Female;36-45;Distrito Federal;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1476631;Corporate;26-35;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+956833;Male;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+154753;Male;36-45;Santa Catarina;1;0;1;0;0;0;2007-2010;Sud;Compactes;6198.0
+1001555;Female;36-45;Sao Paulo;2;0;1;0;0;0;2010-2013;Sud-Est;Citadine;3811.0
+1804823;Male;36-45;Para;0;0;0;0;0;0;2007-2010;Nord;Non classifié;0.0
+1141449;Female;>55;Esperito Santo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+1732253;Male;36-45;Goias;0;0;0;0;0;0;2001-2004;Centre-Ouest;Véhicules utilitaires;0.0
+1105874;Male;36-45;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1307770;Female;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Non classifié;0.0
+1893882;Male;18-25;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1036445;Male;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+1471130;Male;36-45;Rio de Janeiro;2;0;1;0;0;1;2007-2010;Sud-Est;Véhicules tout-terrain;3478.0
+758628;Male;26-35;Amazonas;0;0;0;0;0;0;2004-2007;Nord;Véhicules utilitaires sportifs;0.0
+182441;Male;18-25;Parana;1;0;1;0;0;0;2007-2010;Sud;Citadine;1868.0
+293808;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1076925;Male;46-55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+68747;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+467163;Male;36-45;Minas Gerais;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+686643;Corporate;36-45;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+188432;Female;46-55;Parana;1;0;1;0;0;0;1995-1998;Sud;Compactes;2413.0
+1921221;Male;46-55;Maranhao;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules électriques et hybrides;0.0
+85625;Female;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1507567;Male;36-45;Sergipe;1;0;0;0;0;1;2007-2010;Nord-Est;Breaks et monospaces;72.0
+1710912;Male;36-45;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Véhicules utilitaires;0.0
+280227;Female;36-45;Sao Paulo;1;0;0;0;0;1;2010-2013;Sud-Est;Compactes;159.0
+1724191;Corporate;36-45;Mato Grosso;0;0;0;0;0;0;2007-2010;Centre-Ouest;Véhicules utilitaires;0.0
+337439;Female;>55;Sao Paulo;5;1;0;0;0;1;2010-2013;Sud-Est;Compactes;8941.6
+860078;Female;46-55;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Compactes;0.0
+179532;Male;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+179177;Corporate;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1327128;Male;18-25;Parana;1;0;1;0;0;0;2007-2010;Sud;Véhicules tout-terrain;25547.0
+140921;Female;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+885383;Female;>55;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+680917;Male;>55;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Véhicules utilitaires sportifs;0.0
+448396;Male;36-45;Minas Gerais;3;0;1;1;0;0;2010-2013;Sud-Est;Citadine;10923.0
+1570252;Corporate;46-55;Mato Grosso;0;0;0;0;0;0;2001-2004;Centre-Ouest;Véhicules utilitaires;0.0
+572282;Female;>55;Rio de Janeiro;1;1;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;30322.0
+1923856;Female;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+314181;Female;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+32521;Male;46-55;Santa Catarina;1;0;0;0;0;1;2007-2010;Sud;Compactes;443.0
+1891593;Female;46-55;Alagoas;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires sportifs;0.0
+346535;Male;>55;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Compactes;0.0
+1304146;Male;26-35;Parana;0;0;0;0;0;0;2004-2007;Sud;Breaks et monospaces;0.0
+1546871;Male;18-25;Maranhao;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+610678;Male;36-45;Bahia;5;0;1;0;0;1;2010-2013;Nord-Est;Compactes;9503.0
+1438915;Male;46-55;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;0.0
+79358;Corporate;46-55;Rio Grande do Sul;0;0;0;0;0;0;<1995;Sud;Compactes;0.0
+1795244;Male;18-25;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Motos;0.0
+679650;Male;36-45;Rio Grande do Norte;0;0;0;0;0;0;1998-2001;Nord-Est;Citadine;0.0
+18157;Male;36-45;Santa Catarina;3;0;0;0;0;1;2007-2010;Sud;Breaks et monospaces;44.0
+965996;Male;46-55;Parana;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+1799595;Male;>55;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Non classifié;0.0
+699806;Female;36-45;Alagoas;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules électriques et hybrides;0.0
+963811;Male;36-45;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+577828;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1314675;Male;>55;Parana;0;0;0;0;0;0;1998-2001;Sud;Véhicules utilitaires;0.0
+1369970;Male;46-55;Sao Paulo;1;0;0;0;0;1;1998-2001;Sud-Est;Véhicules utilitaires sportifs;80.0
+1786124;Male;>55;Rio de Janeiro;0;0;0;0;0;0;1995-1998;Sud-Est;Motos;0.0
+1517984;Corporate;36-45;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Non classifié;0.0
+418819;Male;46-55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Compactes;0.0
+196792;Female;>55;Parana;3;0;1;0;0;0;2004-2007;Sud;Compactes;2240.0
+1595450;Female;18-25;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Véhicules utilitaires sportifs;0.0
+434660;Female;46-55;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1254125;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Véhicules tout-terrain;0.0
+699812;Male;46-55;Alagoas;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules électriques et hybrides;0.0
+939982;Female;26-35;Parana;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+1445132;Male;26-35;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+1818474;Corporate;18-25;Mato Grosso;0;0;0;0;0;0;2010-2013;Centre-Ouest;Non classifié;0.0
+1347413;Male;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Non classifié;0.0
+294657;Male;36-45;Sao Paulo;45;0;1;0;0;1;2001-2004;Sud-Est;Citadine;432.15555555555557
+149126;Corporate;46-55;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+1369883;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires sportifs;0.0
+251323;Male;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1122597;Female;>55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+1451252;Female;>55;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Non classifié;0.0
+1089125;Male;>55;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1437924;Male;26-35;Minas Gerais;0;0;0;0;0;0;<1995;Sud-Est;Non classifié;0.0
+1534288;Corporate;36-45;Alagoas;0;0;0;0;0;0;2010-2013;Nord-Est;Non classifié;0.0
+1035187;Male;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+58804;Corporate;>55;Parana;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+1248272;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Véhicules tout-terrain;0.0
+1745222;Female;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+1155721;Male;>55;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Berlines;0.0
+564052;Female;18-25;Rio de Janeiro;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+123172;Corporate;46-55;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+109203;Female;18-25;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1838837;Male;26-35;Parana;0;0;0;0;0;0;2007-2010;Sud;Non classifié;0.0
+164196;Female;18-25;Parana;2;0;1;0;0;0;2010-2013;Sud;Citadine;370.0
+772848;Male;18-25;Roraima;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+208638;Male;26-35;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+81121;Female;>55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+606275;Female;36-45;Bahia;1;0;1;0;0;0;2007-2010;Nord-Est;Compactes;4676.0
+359758;Female;26-35;Sao Paulo;1;0;0;0;0;1;2004-2007;Sud-Est;Compactes;36.0
+1787936;Female;46-55;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Motos;0.0
+312639;Female;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+1701865;Corporate;36-45;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Non classifié;0.0
+1645208;Male;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+988036;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+115826;Male;>55;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1439641;Male;36-45;Minas Gerais;1;0;1;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;3143.0
+297601;Male;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1668153;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1169036;Male;>55;Paraiba;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+95432;Male;26-35;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Compactes;0.0
+1669315;Male;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+619336;Male;46-55;Bahia;1;0;1;0;0;0;2004-2007;Nord-Est;Compactes;3666.0
+1254733;Male;18-25;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Véhicules tout-terrain;0.0
+1475921;Male;36-45;Rio de Janeiro;1;0;1;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;549.0
+1472045;Female;26-35;Rio de Janeiro;1;0;0;0;0;1;2007-2010;Sud-Est;Véhicules utilitaires sportifs;67.0
+378104;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1668006;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+1653131;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+106364;Female;18-25;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Breaks et monospaces;0.0
+1890213;Male;>55;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+308524;Female;>55;Sao Paulo;1;0;0;0;0;1;<1995;Sud-Est;Non classifié;91.0
+317808;Corporate;26-35;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1684858;Male;36-45;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules tout-terrain;0.0
+1634004;Corporate;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+933347;Male;26-35;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+489841;Female;>55;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+544513;Corporate;>55;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+565859;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+152852;Male;36-45;Santa Catarina;7;0;1;0;0;1;2007-2010;Sud;Compactes;1616.0
+1362926;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1656397;Male;36-45;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+980;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Breaks et monospaces;0.0
+1526351;Corporate;36-45;Rio Grande do Norte;0;0;0;0;0;0;1998-2001;Nord-Est;Citadine;0.0
+226785;Female;46-55;Parana;0;0;0;0;0;0;<1995;Sud;Compactes;0.0
+74208;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;<1995;Sud;Compactes;0.0
+1825140;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Non classifié;0.0
+1899518;Male;26-35;Santa Catarina;1;0;0;0;0;1;1995-1998;Sud;Citadine;346.0
+23962;Female;26-35;Rio de Janeiro;7;0;1;0;0;1;2001-2004;Sud-Est;Citadine;1609.0
+948033;Male;>55;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1264173;Female;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Non classifié;0.0
+1727589;Corporate;36-45;Mato Grosso do Sul;0;0;0;0;0;0;1995-1998;Centre-Ouest;Véhicules utilitaires;0.0
+1063525;Male;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1293345;Female;36-45;Santa Catarina;0;0;0;0;0;0;1995-1998;Sud;Véhicules utilitaires;0.0
+1892963;Male;36-45;Santa Catarina;1;0;1;0;0;0;2007-2010;Sud;Breaks et monospaces;7354.0
+459865;Female;46-55;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+228063;Female;26-35;Parana;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+659327;Female;26-35;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+949082;Female;26-35;Parana;0;0;0;0;0;0;2001-2004;Sud;Citadine;0.0
+1411721;Female;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Berlines;0.0
+1116673;Female;>55;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1678159;Female;36-45;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires;0.0
+1874679;Male;>55;Santa Catarina;1;0;1;0;0;0;2004-2007;Sud;Citadine;8062.0
+1758542;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1567989;Corporate;36-45;Mato Grosso;0;0;0;0;0;0;2007-2010;Centre-Ouest;Véhicules tout-terrain;0.0
+754822;Female;46-55;Para;0;0;0;0;0;0;2007-2010;Nord;Compactes;0.0
+1894410;Male;>55;Santa Catarina;1;0;0;0;0;1;2007-2010;Sud;Citadine;67.0
+311593;Male;46-55;Sao Paulo;1;0;0;0;0;1;2004-2007;Sud-Est;Compactes;67.0
+1703816;Male;>55;Esperito Santo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+1271914;Male;26-35;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+1536682;Corporate;36-45;Ceara;0;0;0;0;0;0;2001-2004;Nord-Est;Véhicules utilitaires;0.0
+1007390;Female;26-35;Sao Paulo;1;1;0;0;0;0;2004-2007;Sud-Est;Citadine;17894.0
+73432;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+1194501;Male;>55;Para;0;0;0;0;0;0;1998-2001;Nord;Citadine;0.0
+401181;Female;36-45;Sao Paulo;17;1;1;1;0;1;1995-1998;Sud-Est;Citadine;2804.4117647058824
+1885812;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Breaks et monospaces;0.0
+1599902;Female;26-35;Goias;1;0;0;0;0;1;2010-2013;Centre-Ouest;Citadine;100.0
+481198;Female;>55;Minas Gerais;0;0;0;0;0;0;1995-1998;Sud-Est;Non classifié;0.0
+1032968;Female;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Compactes;0.0
+1708024;Male;36-45;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+230408;Male;>55;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1317509;Male;46-55;Parana;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+992036;Male;26-35;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Berlines;0.0
+1366930;Male;36-45;Sao Paulo;10;0;0;0;0;1;1998-2001;Sud-Est;Citadine;69.4
+991404;Male;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Berlines;0.0
+469793;Male;36-45;Minas Gerais;1;1;0;0;0;0;1998-2001;Sud-Est;Citadine;14362.0
+192356;Female;18-25;Parana;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+819684;Female;>55;Distrito Federal;0;0;0;0;0;0;1998-2001;Centre-Ouest;Compactes;0.0
+598317;Female;46-55;Esperito Santo;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+1729948;Corporate;36-45;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Breaks et monospaces;0.0
+610537;Corporate;36-45;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+1043260;Male;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1126094;Corporate;36-45;Rio de Janeiro;0;0;0;0;0;0;2010-2013;Sud-Est;Non classifié;0.0
+1839077;Male;36-45;Sao Paulo;1;0;0;0;0;1;2004-2007;Sud-Est;Véhicules utilitaires sportifs;567.0
+1870551;Female;46-55;Minas Gerais;0;0;0;0;0;0;2001-2004;Sud-Est;Berlines;0.0
+818671;Male;>55;Distrito Federal;2;0;1;0;0;1;1998-2001;Centre-Ouest;Citadine;1784.0
+1295352;Male;>55;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+1227577;Female;46-55;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Breaks et monospaces;0.0
+151088;Female;>55;Santa Catarina;6;0;1;0;0;1;2007-2010;Sud;Citadine;2355.3333333333335
+1006617;Female;>55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1359794;Male;46-55;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires sportifs;0.0
+1898012;Male;26-35;Santa Catarina;1;0;1;0;0;0;2007-2010;Sud;Citadine;730.0
+1814506;Male;>55;Goias;0;0;0;0;0;0;2007-2010;Centre-Ouest;Véhicules utilitaires;0.0
+1055874;Male;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires sportifs;0.0
+537666;Female;18-25;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+1437465;Female;>55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Non classifié;0.0
+243656;Male;26-35;Parana;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+706860;Female;36-45;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Berlines;0.0
+257527;Male;46-55;Sao Paulo;0;0;0;0;0;0;<1995;Sud-Est;Non classifié;0.0
+1888113;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;2004-2007;Sud;Compactes;0.0
+615753;Corporate;36-45;Bahia;0;0;0;0;0;0;2010-2013;Nord-Est;Breaks et monospaces;0.0
+1378522;Corporate;>55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Berlines;0.0
+1736886;Male;36-45;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Motos;0.0
+238579;Corporate;36-45;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+259866;Male;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+743481;Corporate;46-55;Para;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+853499;Female;46-55;Goias;1;0;1;0;0;0;2007-2010;Centre-Ouest;Citadine;129.0
+1895092;Female;>55;Santa Catarina;0;0;0;0;0;0;1998-2001;Sud;Compactes;0.0
+817830;Female;46-55;Distrito Federal;1;0;1;0;0;0;2007-2010;Centre-Ouest;Citadine;2896.0
+247261;Male;46-55;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Véhicules utilitaires;0.0
+1153618;Female;46-55;Bahia;0;0;0;0;0;0;2004-2007;Nord-Est;Citadine;0.0
+331990;Female;36-45;Sao Paulo;289;1;1;0;0;1;2007-2010;Sud-Est;Compactes;489.1764705882353
+1940436;Female;>55;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+62696;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+8018;Female;26-35;Parana;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+1286461;Corporate;26-35;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Breaks et monospaces;0.0
+1720056;Male;46-55;Para;0;0;0;0;0;0;2007-2010;Nord;Véhicules utilitaires;0.0
+1719920;Corporate;36-45;Para;0;0;0;0;0;0;2007-2010;Nord;Non classifié;0.0
+776569;Female;>55;Acre;0;0;0;0;0;0;2007-2010;Nord;Citadine;0.0
+800611;Female;26-35;Mato Grosso do Sul;1;0;1;0;0;0;2004-2007;Centre-Ouest;Compactes;1732.0
+1185711;Male;46-55;Ceara;0;0;0;0;0;0;2007-2010;Nord-Est;Non classifié;0.0
+1041450;Male;>55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Citadine;0.0
+1889521;Female;46-55;Santa Catarina;0;0;0;0;0;0;2010-2013;Sud;Breaks et monospaces;0.0
+1594388;Corporate;36-45;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1505002;Corporate;36-45;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+393181;Corporate;>55;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1164448;Male;18-25;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+900561;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+1519875;Male;46-55;Paraiba;0;0;0;0;0;0;2007-2010;Nord-Est;Véhicules utilitaires;0.0
+586931;Corporate;46-55;Esperito Santo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1835808;Corporate;36-45;Parana;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+1667668;Male;>55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+576285;Female;26-35;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Compactes;0.0
+1907035;Female;26-35;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Compactes;0.0
+876446;Female;36-45;Goias;0;0;0;0;0;0;2010-2013;Centre-Ouest;Compactes;0.0
+1742966;Male;36-45;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires;0.0
+1259185;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Véhicules utilitaires;0.0
+477441;Male;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+602343;Male;46-55;Esperito Santo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+194162;Corporate;36-45;Parana;0;0;0;0;0;0;1998-2001;Sud;Compactes;0.0
+93528;Corporate;36-45;Rio Grande do Sul;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+1107943;Male;36-45;Minas Gerais;2;1;0;0;0;1;2010-2013;Sud-Est;Non classifié;32198.0
+1528508;Corporate;18-25;Rio Grande do Norte;0;0;0;0;0;0;2004-2007;Nord-Est;Véhicules utilitaires sportifs;0.0
+362651;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Véhicules utilitaires;0.0
+1058687;Female;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+952604;Female;46-55;Parana;0;0;0;0;0;0;1998-2001;Sud;Citadine;0.0
+102767;Male;36-45;Minas Gerais;1;0;1;0;0;0;2001-2004;Sud-Est;Compactes;2080.0
+330013;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+1143663;Male;46-55;Esperito Santo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1558061;Corporate;26-35;Amazonas;0;0;0;0;0;0;2007-2010;Nord;Breaks et monospaces;0.0
+1644371;Male;46-55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Non classifié;0.0
+846204;Male;36-45;Goias;0;0;0;0;0;0;1995-1998;Centre-Ouest;Compactes;0.0
+988593;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+1113631;Male;36-45;Rio de Janeiro;6;1;1;0;0;0;2007-2010;Sud-Est;Citadine;13081.833333333334
+940188;Male;46-55;Parana;0;0;0;0;0;0;2007-2010;Sud;Citadine;0.0
+557347;Male;>55;Rio de Janeiro;0;0;0;0;0;0;1998-2001;Sud-Est;Non classifié;0.0
+1660404;Male;>55;Sao Paulo;5;0;0;0;0;1;2007-2010;Sud-Est;Véhicules utilitaires;70.6
+328017;Male;26-35;Sao Paulo;2;0;0;0;0;1;2007-2010;Sud-Est;Citadine;36.0
+1484034;Male;26-35;Rio de Janeiro;1;1;0;0;0;0;2004-2007;Sud-Est;Breaks et monospaces;62027.0
+1834395;Male;26-35;Parana;0;0;0;0;0;0;2004-2007;Sud;Véhicules utilitaires sportifs;0.0
+354058;Female;36-45;Sao Paulo;26;1;1;0;0;1;2007-2010;Sud-Est;Compactes;1438.423076923077
+1042774;Female;26-35;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1668879;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Véhicules utilitaires;0.0
+1795094;Male;36-45;Sergipe;0;0;0;0;0;0;2007-2010;Nord-Est;Motos;0.0
+182375;Female;18-25;Parana;2;0;0;0;0;1;2004-2007;Sud;Citadine;34.0
+1202715;Male;36-45;Mato Grosso;0;0;0;0;0;0;2004-2007;Centre-Ouest;Compactes;0.0
+703006;Female;26-35;Ceara;0;0;0;0;0;0;2001-2004;Nord-Est;Non classifié;0.0
+814155;Female;36-45;Distrito Federal;1;0;0;0;0;1;2010-2013;Centre-Ouest;Citadine;36.0
+483189;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+977006;Male;>55;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Compactes;0.0
+1095534;Male;46-55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+1026970;Male;36-45;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1425571;Male;46-55;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+294449;Female;46-55;Sao Paulo;88;1;1;0;0;1;2001-2004;Sud-Est;Citadine;262.5113636363636
+542386;Male;46-55;Rio de Janeiro;3;0;1;0;0;0;2007-2010;Sud-Est;Citadine;2893.6666666666665
+1551897;Male;36-45;Para;0;0;0;0;0;0;2004-2007;Nord;Véhicules utilitaires;0.0
+1588687;Female;46-55;Distrito Federal;0;0;0;0;0;0;2010-2013;Centre-Ouest;Citadine;0.0
+1172971;Male;26-35;Rio Grande do Norte;0;0;0;0;0;0;2007-2010;Nord-Est;Citadine;0.0
+1470536;Male;46-55;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Non classifié;0.0
+610177;Female;>55;Bahia;0;0;0;0;0;0;2007-2010;Nord-Est;Compactes;0.0
+553855;Male;36-45;Rio de Janeiro;5;0;0;0;0;1;2001-2004;Sud-Est;Citadine;134.4
+273465;Female;36-45;Sao Paulo;0;0;0;0;0;0;2004-2007;Sud-Est;Citadine;0.0
+1527070;Corporate;36-45;Rio Grande do Norte;0;0;0;0;0;0;2010-2013;Nord-Est;Citadine;0.0
+324658;Male;46-55;Sao Paulo;2;0;0;0;0;1;2007-2010;Sud-Est;Citadine;79.0
+1660421;Corporate;18-25;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+867269;Female;18-25;Tocantins;0;0;0;0;0;0;2010-2013;Nord;Citadine;0.0
+1696295;Male;>55;Rio de Janeiro;0;0;0;0;0;0;1995-1998;Sud-Est;Véhicules utilitaires;0.0
+738378;Female;26-35;Maranhao;2;0;0;0;0;1;2007-2010;Nord-Est;Véhicules électriques et hybrides;67.0
+780958;Female;36-45;Mato Grosso;0;0;0;0;0;0;2007-2010;Centre-Ouest;Berlines;0.0
+174783;Female;26-35;Parana;0;0;0;0;0;0;2010-2013;Sud;Citadine;0.0
+536879;Male;36-45;Rio de Janeiro;1;0;1;0;0;0;2007-2010;Sud-Est;Compactes;2563.0
+328204;Male;36-45;Sao Paulo;0;0;0;0;0;0;1998-2001;Sud-Est;Compactes;0.0
+162238;Male;36-45;Parana;0;0;0;0;0;0;2004-2007;Sud;Citadine;0.0
+423910;Female;36-45;Minas Gerais;0;0;0;0;0;0;1998-2001;Sud-Est;Citadine;0.0
+1875818;Male;>55;Pernambuco;0;0;0;0;0;0;2004-2007;Nord-Est;Compactes;0.0
+1634827;Corporate;36-45;Parana;0;0;0;0;0;0;1995-1998;Sud;Véhicules utilitaires;0.0
+858630;Female;26-35;Goias;1;0;1;0;0;0;2010-2013;Centre-Ouest;Compactes;2181.0
+580718;Female;36-45;Rio de Janeiro;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+911593;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires sportifs;0.0
+480443;Male;>55;Minas Gerais;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+1389353;Corporate;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;0.0
+899125;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Berlines;0.0
+1064807;Female;36-45;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Citadine;0.0
+1617086;Male;>55;Rio Grande do Sul;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires;0.0
+62558;Corporate;36-45;Santa Catarina;0;0;0;0;0;0;2001-2004;Sud;Berlines;0.0
+117473;Female;26-35;Santa Catarina;0;0;0;0;0;0;2007-2010;Sud;Véhicules utilitaires sportifs;0.0
+256962;Male;>55;Sao Paulo;0;0;0;0;0;0;2007-2010;Sud-Est;Compactes;0.0
+979498;Female;46-55;Sao Paulo;0;0;0;0;0;0;2010-2013;Sud-Est;Compactes;0.0
+1317486;Female;46-55;Parana;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires;0.0
+1206386;Male;>55;Mato Grosso do Sul;0;0;0;0;0;0;1995-1998;Centre-Ouest;Berlines;0.0
+907349;Male;46-55;Rio Grande do Sul;0;0;0;0;0;0;2010-2013;Sud;Véhicules utilitaires sportifs;0.0
+568704;Male;36-45;Rio de Janeiro;1;0;1;0;0;0;2007-2010;Sud-Est;Breaks et monospaces;549.0
+1433342;Corporate;36-45;Minas Gerais;0;0;0;0;0;0;2007-2010;Sud-Est;Véhicules utilitaires;0.0
+1364746;Corporate;46-55;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Véhicules utilitaires;0.0
+68810;Female;46-55;Rio Grande do Sul;0;0;0;0;0;0;2001-2004;Sud;Compactes;0.0
+1870946;Female;>55;Rio de Janeiro;0;0;0;0;0;0;<1995;Sud-Est;Véhicules utilitaires;0.0
+351768;Female;18-25;Sao Paulo;0;0;0;0;0;0;1995-1998;Sud-Est;Berlines;0.0
+1947327;Male;36-45;Rio Grande do Sul;3;0;1;0;0;0;2001-2004;Sud;Citadine;5595.333333333333
+1166154;Female;26-35;Pernambuco;0;0;0;0;0;0;2010-2013;Nord-Est;Véhicules électriques et hybrides;0.0
+474905;Female;36-45;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Citadine;0.0
+753048;Female;46-55;Para;1;0;1;0;0;0;2010-2013;Nord;Compactes;5438.0
+264906;Female;26-35;Sao Paulo;48;0;1;0;0;1;2007-2010;Sud-Est;Citadine;89.70833333333333
+313934;Male;>55;Sao Paulo;56;0;1;0;0;1;2007-2010;Sud-Est;Citadine;146.46428571428572
+1790105;Male;36-45;Rio de Janeiro;0;0;0;0;0;0;2001-2004;Sud-Est;Motos;0.0
+39632;Corporate;>55;Santa Catarina;0;0;0;0;0;0;2004-2007;Sud;Berlines;0.0
+1011242;Male;26-35;Sao Paulo;0;0;0;0;0;0;2001-2004;Sud-Est;Berlines;0.0
+1449307;Corporate;46-55;Minas Gerais;0;0;0;0;0;0;2010-2013;Sud-Est;Véhicules utilitaires sportifs;0.0
